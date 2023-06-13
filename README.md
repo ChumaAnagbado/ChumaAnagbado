@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChumaAnagbado
 - 👀 I’m interested in pattern making using generative art
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on nft prijects
+- 💞️ I’m looking to collaborate on nft projects
 - 📫 How to reach me ca@chumaanagbado.com
 
 <!---
